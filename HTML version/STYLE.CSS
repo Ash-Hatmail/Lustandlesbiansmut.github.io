@@ -1,3 +1,8 @@
 html {
-    background-color: #feafd6;
+    background-color: #ffc4e5;
+    color: #ff4191;
+}
+#site_header {
+    padding-bottom: 5px;
+    border-bottom: 1px solid #920050
 }
