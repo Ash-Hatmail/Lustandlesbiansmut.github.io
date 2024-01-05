@@ -6,3 +6,8 @@ html {
     padding-bottom: 5px;
     border-bottom: 1px solid #920050
 }
+#header_text {
+    font: 800 40px Arial;
+    -webkit-text-fill-color: #ff4191;
+    -webkit-text-stroke: 1px;
+}
